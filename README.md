@@ -1,7 +1,7 @@
 # NAME:G.SRI JANI
 # REG NO:212224060259
 
-# ASK
+# ASK & FSK
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
